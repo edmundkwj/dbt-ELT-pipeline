@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "dbt-elt-pipeline"
+version = "0.1.0"
+description = ""
+authors = ["Edmund Koh <21267259+edmundkwj@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
